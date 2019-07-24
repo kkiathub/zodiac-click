@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zodiac-click/static/css/main.2cce8147.chunk.css",
-    "main.js": "/zodiac-click/static/js/main.75a5f1b6.chunk.js",
-    "main.js.map": "/zodiac-click/static/js/main.75a5f1b6.chunk.js.map",
+    "main.css": "/zodiac-click/static/css/main.8d51de35.chunk.css",
+    "main.js": "/zodiac-click/static/js/main.2b0b7842.chunk.js",
+    "main.js.map": "/zodiac-click/static/js/main.2b0b7842.chunk.js.map",
     "runtime~main.js": "/zodiac-click/static/js/runtime~main.c2ac3af7.js",
     "runtime~main.js.map": "/zodiac-click/static/js/runtime~main.c2ac3af7.js.map",
-    "static/js/2.b41502e9.chunk.js": "/zodiac-click/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/zodiac-click/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.100e50e4.chunk.js": "/zodiac-click/static/js/2.100e50e4.chunk.js",
+    "static/js/2.100e50e4.chunk.js.map": "/zodiac-click/static/js/2.100e50e4.chunk.js.map",
     "index.html": "/zodiac-click/index.html",
-    "precache-manifest.2824e2b88279347da6bfded0f9946d7b.js": "/zodiac-click/precache-manifest.2824e2b88279347da6bfded0f9946d7b.js",
+    "precache-manifest.f2c7040bdf9cfbd9242762ace69eb0e1.js": "/zodiac-click/precache-manifest.f2c7040bdf9cfbd9242762ace69eb0e1.js",
     "service-worker.js": "/zodiac-click/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/zodiac-click/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/zodiac-click/static/media/logo.5d5d9eef.svg"
+    "static/css/main.8d51de35.chunk.css.map": "/zodiac-click/static/css/main.8d51de35.chunk.css.map",
+    "static/media/index.css": "/zodiac-click/static/media/bg.c6a2f512.jpg"
   }
 }
