@@ -2,61 +2,61 @@
     {
         "id": 1,
         "name": "Rat",
-        "url": "../images/1-rat.png"
+        "url": "/images/1-rat.png"
     },
     {
         "id": 2,
         "name": "Ox",
-        "url": "../images/2-ox.png"
+        "url": "/images/2-ox.png"
     },
     {
         "id": 3,
         "name": "Tiger",
-        "url": "../images/3-tiger.png"
+        "url": "/images/3-tiger.png"
     },
     {
         "id": 4,
         "name": "Rabbit",
-        "url": "../images/4-rabbit.png"
+        "url": "/images/4-rabbit.png"
     },
     {
         "id": 5,
         "name": "Dragon",
-        "url": "../images/5-dragon.png"
+        "url": "/images/5-dragon.png"
     },
     {
         "id": 6,
         "name": "Snake",
-        "url": "../images/6-snake.png"
+        "url": "/images/6-snake.png"
     },
     {
         "id": 7,
         "name": "Horse",
-        "url": "../images/7-horse.png"
+        "url": "/images/7-horse.png"
     },
     {
         "id": 8,
         "name": "Goat",
-        "url": "../images/8-goat.png"
+        "url": "/images/8-goat.png"
     },
     {
         "id": 9,
         "name": "Monkey",
-        "url": "../images/9-monkey.png"
+        "url": "/images/9-monkey.png"
     },
     {
         "id": 10,
         "name": "Rooster",
-        "url": "../images/10-rooster.png"
+        "url": "/images/10-rooster.png"
     },
     {
         "id": 11,
         "name": "Dog",
-        "url": "../images/11-dog.png"
+        "url": "/images/11-dog.png"
     },
     {
         "id": 12,
         "name": "Pig",
-        "url": "../images/12-pig.png"
+        "url": "/images/12-pig.png"
     }
 ]

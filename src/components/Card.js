@@ -4,7 +4,7 @@ import "../styles/Card.css";
 function Card(props) {
     var imgUrl = props.image;
     if (props.isAnimated) {
-        imgUrl = "../images/shocked.png";
+        imgUrl = "/images/shocked.png";
     } 
     
     return (
