@@ -5,8 +5,8 @@ import "../styles/Footer.css";
 
 function Footer() {
     return (
-        <div class="footer">
-            <p class="my-2">©️ Copyright</p>
+        <div className="footer">
+            <p className="my-0 py-2"><span role="img" aria-label="emoji">©️</span> Copyright</p>
         </div>
     );
 }
