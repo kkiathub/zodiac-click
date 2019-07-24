@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55114e88a08ee7674e400ce5209c1297",
+    "revision": "475a159af878c82da59a388f7421a047",
     "url": "/zodiac-click/index.html"
   },
   {
-    "revision": "00e4f359e3e9da648659",
+    "revision": "b0701140d52edb47eea8",
     "url": "/zodiac-click/static/css/main.8d51de35.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zodiac-click/static/js/2.100e50e4.chunk.js"
   },
   {
-    "revision": "00e4f359e3e9da648659",
-    "url": "/zodiac-click/static/js/main.2b0b7842.chunk.js"
+    "revision": "b0701140d52edb47eea8",
+    "url": "/zodiac-click/static/js/main.ae0c121b.chunk.js"
   },
   {
     "revision": "dc39a45b38249549fc67",
