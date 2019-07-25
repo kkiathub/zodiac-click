@@ -7,12 +7,12 @@ var toggleClass = 0;
 function Navbar(props) {
   var message = "";
   var effClass = "";
-  if (props.cScore===0) {
+  if (props.cScore === 0) {
     message = "Click an image to start! Don't click on the same image twice!";
     effClass = "glow"
-  } else if ( props.animId<0) {
+  } else if (props.animId < 0) {
     message = "YAY, You guessed correctly!";
-    if (toggleClass===0) {
+    if (toggleClass === 0) {
       effClass = "blinkyay"
       toggleClass = 1;
     } else {
@@ -26,11 +26,14 @@ function Navbar(props) {
 
   return (
     <nav className="navbar navbar-light py-0">
-      <a className="navbar-brand py-0" href="/"><img src={process.env.PUBLIC_URL+"/images/logo.png"} alt="logo" /></a>
+      <a className="navbar-brand py-0" href="/"><img src={process.env.PUBLIC_URL + "/images/logo.png"} alt="logo" /></a>
+      <ul className="navbar-nav">
+        <li className="nav-item">
+          <h3 className={`game-message mr-auto ${effClass}`}>{message}</h3>
+        </li>
+      </ul>
 
-      <h3 className={`game-message mr-auto ${effClass}`}>{message}</h3>
-
-      <h4 className="mr-5 my-0">Score: {props.cScore} | Top Score: {props.tScore}</h4>
+      <h4 className="ml-auto my-0">Score: {props.cScore} | Top Score: {props.tScore}</h4>
 
     </nav>
 

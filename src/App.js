@@ -29,7 +29,6 @@ class App extends React.Component {
   }
 
   timeoutCB() {
-    console.log("timeout call back!");
     clearTimeout(this.timeHandle);
     this.setState({
       topScore: this.state.currScore > this.state.topScore ? this.state.currScore : this.state.topScore,
@@ -41,12 +40,10 @@ class App extends React.Component {
   }
 
   clickImage = id => {
-    console.log("click " + id);
     if (this.state.clickedList.indexOf(id) < 0) {
       // not found - haven't clicked this image yet.
       var newList = this.state.clickedList;
       newList.push(id);
-      console.log(newList);
       this.setState({
         currScore: this.state.currScore + 1,
         clickedList: newList,
