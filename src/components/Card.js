@@ -8,7 +8,7 @@ function Card(props) {
     } 
     
     return (
-        <div className="card">
+        <div className="card mt-1">
             <img className={`card-img-top ${props.isAnimated?"img-shake":""}`} alt={props.alt} onClick={props.hClick} src={process.env.PUBLIC_URL + imgUrl} />
         </div>
     )
